@@ -1,0 +1,3 @@
+User-agent: *
+Host: batoturon.beget.app
+Sitemap: https://batoturon.beget.app/sitemap.xml
